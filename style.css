@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to top, #c8ff00,#ff82d9);
+    width: 250px;
+    border: 10px solid rgb(0, 0, 0);
+    border-style:double;
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
+    position:relative;
+    left: 575px;
+    top: 285px;
+    transform: scale(2.5);
+    
+}
+
+h1 {
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  div {
+    border: double;
+  }
+  #times {
+      text-align: center;
+  }
+  #buttons {
+      text-align: center;
+  }
